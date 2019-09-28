@@ -6,7 +6,7 @@
 On an Arch based distribution as root, run the following:
 
 ```
-curl -LO larbs.xyz/larbs.sh
+curl -LO dihak.my.id/larbs.sh
 sh larbs.sh
 ```
 
