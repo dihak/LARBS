@@ -52,6 +52,7 @@
 ,mediainfo,"shows audio and video information and is used by vifm as well."
 ,atool,"manages and gives information about archives."
 ,fzf,"is a fuzzy finder tool."
+,ack,"A Perl-based grep replacement, aimed at programmers with large trees of heterogeneous source code."
 ,highlight,"can highlight code output."
 ,gst-plugins-good1,"allows video streaming including YouTube videos."
 ,gst-libav,"allows video streaming including YouTube videos."
