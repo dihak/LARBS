@@ -66,4 +66,5 @@ G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's termi
 ,tabbed,"allows tabbing other programs like the terminal or the browser."
 G,https://github.com/lukesmithxyz/surf.git,"is the suckless web browser."
 G,https://github.com/lukesmithxyz/dwm.git,"is the window manager."
+G,https://github.com/dihak/dwmblocks.git,"Modular status bar for dwm written in c."
 ,ts,"queues commands or files for download."
